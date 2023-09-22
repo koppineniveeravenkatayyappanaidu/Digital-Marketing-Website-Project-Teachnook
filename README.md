@@ -1,28 +1,70 @@
-# Digital-Marketing-Website-Project-Teachnook
-Hands-on Experience with Advanced Technologies: By using React, Hooks, HTML5, CSS3,
-MySQL/SQLite, and the Google Maps API, the aspiring web developer will gain practical experience
-with cutting-edge tools and technologies commonly used in the industry.
-Understanding User Experience: Building a website that optimizes customer conversion and user
-engagement will provide insights into crafting user-friendly interfaces and improving overall user
-experience, a crucial skill for a successful web developer.
-SEO and Web Visibility Knowledge: Implementing SEO best practices throughout the website will give
-the developer an understanding of search engine optimization and how it impacts a website's
-visibility and traffic, a valuable asset in today's competitive digital landscape.
-Database Management Proficiency: Working with MySQL or SQLite for data storage will enhance the
-developer's database management skills, an essential aspect of web development when handling
-large datasets and user interactions.
-Practical Application of Responsive Design: Crafting a responsive website that works seamlessly
-across devices will showcase the developer's ability to create adaptive and accessible user interfaces,
-a sought-after skill in modern web development.
-Real-world Project Showcase: Completing this project will provide the web developer with a tangible
-portfolio piece, demonstrating their expertise and problem-solving abilities to potential employers or
-clients.
-Understanding Business Requirements: Developing a digital marketing website involves addressing
-specific business needs and requirements. This experience will hone the developer's ability to
-translate client objectives into functional and visually appealing solutions.
-Collaboration and Communication Skills: Implementing features like inquiry forms and chatbots
-requires effective communication and collaboration with stakeholders, fostering teamwork and
-client-oriented skills.
-Overall, developing a comprehensive digital marketing website will empower you as an aspiring web
-developer with a versatile skill set and practical experience, positioning you as a competitive
-candidate for web development careers in various industries.
+# [iziToast](http://izitoast.marcelodolza.com)
+Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
+
+[**izitoast**.marcelodolza.com](http://izitoast.marcelodolza.com)
+
+![capa](http://i.imgur.com/NKk7Rxm.png)
+
+[logo]: http://i.imgur.com/hCYIhep.png "Check icon"
+[new]: http://i.imgur.com/41zuVDk.png "New label"
+[bug]: http://i.imgur.com/92lu4ln.png "Bug label"
+
+Fast | Responsive | Animated | Lightweight | Customizable | No dependencies | Retina
+:-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: 
+![alt text][logo] | ![alt text][logo] | ![alt text][logo] | ![alt text][logo] | ![alt text][logo] | ![alt text][logo] | ![alt text][logo]
+
+
+- All modern browsers are supported (Tested in Chrome, Firefox, Opera, Safari, IE10+ and Edge).
+- Bugs? create an issue [here](https://github.com/marcelodolza/iziToast/issues).
+
+
+___
+- ### [Changelog](http://izitoast.marcelodolza.com/#Changelog)
+- ### [Options](http://izitoast.marcelodolza.com/#Options)
+- ### [Methods](http://izitoast.marcelodolza.com/#Methods)
+- ### [Events](http://izitoast.marcelodolza.com/#Events)
+- ### [Use](http://izitoast.marcelodolza.com/#Start)
+___
+
+#### Gulp Tasks
+The default build task
+```
+gulp
+```
+Rerun the build task when a file changes
+```
+gulp watch
+```
+___
+
+
+#### [NPM](https://www.npmjs.com/package/izitoast)
+```
+npm install izitoast --save
+```
+#### Yarn
+```
+yarn add izitoast --save
+```
+#### Bower
+```
+bower install izitoast --save
+```
+
+#### Angular 2 ([NPM](https://www.npmjs.com/package/ng2-izitoast), [Github](https://github.com/plauzul/ng2-izitoast))
+
+```
+npm install ng2-izitoast --save
+```
+
+#### Vue 2 ([NPM](https://www.npmjs.com/package/vue-izitoast), [Github](https://github.com/arthurvasconcelos/vue-izitoast))
+
+```
+npm install vue-izitoast --save
+yarn add vue-izitoast
+```
+
+#### [GEM](https://github.com/BadAllOff/iziToast-rails)
+```
+https://github.com/BadAllOff/iziToast-rails
+```
